@@ -5,14 +5,11 @@ original source of descriptions for this code book, modified for the purpose of 
 
 Activities
 =================
-1 WALKING
-
-2 WALKING_UPSTAIRS
-
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
 
 Feature Selection 
 =================
