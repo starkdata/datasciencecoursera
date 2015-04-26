@@ -1,8 +1,10 @@
 Code Book for Coursera Getting and Cleaning Data course project 2015.4.26
+=================
 
 original source of descriptions for this code book, modified for the purpose of this project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Activity names: 
+Activities
+=================
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
