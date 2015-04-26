@@ -1,6 +1,6 @@
 Code Book for Coursera Getting and Cleaning Data course project 2015.4.26
 
-original source of descriptions for this code book: 
+original source of descriptions for this code book, modified for the purpose of this project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Activity names: 
 1 WALKING
@@ -25,20 +25,20 @@ These signals were used to estimate variables of the feature vector for each pat
 tBodyAcc-XYZ
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
+tBodyGyroscope-XYZ
+tBodyAngAccel-XYZ
 tBodyAccMag
 tGravityAccMag
 tBodyAccJerkMag
 tBodyGyroMag
-tBodyGyroJerkMag
+tBodyAngAccelMag
 fBodyAcc-XYZ
 fBodyAccJerk-XYZ
-fBodyGyro-XYZ
+fBodyGyroscope-XYZ
 fBodyAccMag
 fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+fBodyGyroscopeMagnitude
+fBodyAngAccelMagnitude
 
 Variables estimated from the signals (subset of all veriables for this course project):
 mean(): Mean value
