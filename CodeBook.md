@@ -23,33 +23,34 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-*tBodyAcc-XYZ
-*tGravityAcc-XYZ
-*tBodyAccJerk-XYZ
-*tBodyGyroscope-XYZ
-*tBodyAngAccel-XYZ
-*tBodyAccMag
-*tGravityAccMag
-*tBodyAccJerkMag
-*tBodyGyroMag
-*tBodyAngAccelMag
-*fBodyAcc-XYZ
-*fBodyAccJerk-XYZ
-*fBodyGyroscope-XYZ
-*fBodyAccMag
-*fBodyAccJerkMag
-*fBodyGyroscopeMagnitude
-*fBodyAngAccelMagnitude
+* tBodyAcc-XYZ
+* tGravityAcc-XYZ
+* tBodyAccJerk-XYZ
+* tBodyGyroscope-XYZ
+* tBodyAngAccel-XYZ
+* tBodyAccMag
+* tGravityAccMag
+* tBodyAccJerkMag
+* tBodyGyroMag
+* tBodyAngAccelMag
+* fBodyAcc-XYZ
+* fBodyAccJerk-XYZ
+* fBodyGyroscope-XYZ
+* fBodyAccMag
+* fBodyAccJerkMag
+* fBodyGyroscopeMagnitude
+* WALKING_DOWNSTAIRS
+* fBodyAngAccelMagnitude
 
 Variables estimated from the signals (subset of all veriables for this course project):
-mean(): Mean value
-std(): Standard deviation
+* mean(): Mean value
+* std(): Standard deviation
 
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
-*gravityMean
-*tBodyAccMean
-*tBodyAccJerkMean
-*tBodyGyrocopeMean
-*tBodyAngAccelMean
+* gravityMean
+* tBodyAccMean
+* tBodyAccJerkMean
+* tBodyGyrocopeMean
+* tBodyAngAccelMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
